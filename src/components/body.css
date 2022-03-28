@@ -1,3 +1,11 @@
+.banner {
+    background-image: url('https://uploads-ssl.webflow.com/606c4d4ed5ba7ca3bc774c4c/62064e8df3397dc069c2ba18_ebook2%20featured%20image.png');
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px;
+}
+
 .left{
     width: 60%;
     min-height: 60vh;

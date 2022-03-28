@@ -98,9 +98,9 @@ const CssTextField = withStyles({
         
         return(
             <div>
-                <div style={{padding: '30px', background: '#1b2f36'}}>
+                <div className='banner' style={{}}>
                     <div className='left'>
-                        <h1 style={{fontSize: '3.2vw', fontWeight: '650', margin: '0 5px 20px 0'}}>Do you want to conquer your fear of meeting C-suite buyers?</h1>
+                        <h1 style={{fontSize: '3.1vw', fontWeight: '650', margin: '0 5px 20px 0'}}>Do you want to conquer your fear of meeting C-suite buyers?</h1>
                         <div style={{paddingTop: '20px', fontSize: '26px'}}>
                             <p style={{marginBottom: 20}} >Enter your email and get your hands on the e-book.</p>
                             <CssTextField
